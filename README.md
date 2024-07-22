@@ -9,7 +9,7 @@
 
 # Project : House Price prediction using Linear regression
 
-![image](https://github.com/user-attachments/assets/1b8ac920-d103-4cb6-a9e8-40a38e08e1e3)
+![task1](https://github.com/user-attachments/assets/bb299531-50af-4a0b-a3b3-45e9da34f892)
 
 ## Objective: 
 The goal of this project is to build a predictive model using linear regression to forecast house prices based on various features. This model helps real estate professionals and prospective buyers estimate house values with greater accuracy. The project emphasizes data visualization to reveal insights and trends in housing prices.
