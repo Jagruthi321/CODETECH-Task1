@@ -40,7 +40,7 @@ Implemented the model for practical use, allowing for predictions of house price
 **Programming Languages:**
 Python: The primary language for data analysis, model development, and implementation due to its extensive libraries and ease of use.
 
-**Libraries and Tools Used:**\
+**Libraries and Tools Used:**
 
 *Pandas:* For data manipulation and analysis, including data cleaning and transformation.\
 *NumPy:* For numerical computations and handling arrays.\
